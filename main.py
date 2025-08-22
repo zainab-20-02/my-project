@@ -8,3 +8,4 @@ df = pd.read_csv("c:/users/pc/Documents/movie dataset tmdb.csv")
 print(df.head())
 
 print(df.columns)
+print(df.shape)
